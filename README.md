@@ -19,3 +19,4 @@
 * [Meteor Tutorials - Walkthrough for building live apps](https://www.meteor.com/tutorials)
 * [Meteor Guide](https://guide.meteor.com/)
 * [Meteor YouTube Page](https://www.youtube.com/user/MeteorVideos)
+* [Level Up Tuts Meteor Playlist](https://www.youtube.com/watch?v=hgjyr6BPAtA&list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
