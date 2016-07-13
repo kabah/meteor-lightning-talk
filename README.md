@@ -3,7 +3,7 @@
 
 [Meteor Home Page](https://www.meteor.com/)
 
-#### Meteor is a full stack web application framework for the JavaScript language. It runs in a Node.JS environment.
+#### Meteor is a full stack web application framework for the JavaScript language. It runs in a NodeJS environment.
 
 ## What problem does it solve?
   
