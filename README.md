@@ -7,7 +7,7 @@
 
 ## What problem does it solve?
   
-* Seemlessly ties the frontend and backend together. 
+* Seemlessly ties the frontend and backend together and keeps everything in sync.
 * Takes much of the complexity out of full stack development with JavaScript
 * Build Advanced Apps quickly with a small team
 * More function with less code
